@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebueno6&theme=tokyonight)
 
 <!--
 **guilhermebueno6/guilhermebueno6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
