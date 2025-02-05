@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who enjoys bu
 - **Vue.js**
 - **React.js**
 - **Typescript** | **Javascript**
+- **HTML** | **CSS**
+- **Tailwind**
 
 ### DevOps & Tools
 - **Docker**
